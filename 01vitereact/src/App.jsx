@@ -7,7 +7,7 @@ function App() {
         <div>
           <h1>Azure test</h1>
         </div>
-      </section>
+      </section>  
     </>
   )
 }
