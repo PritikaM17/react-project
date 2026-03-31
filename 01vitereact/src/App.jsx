@@ -5,7 +5,7 @@ function App() {
     <>
       <section id="center">
         <div>
-          <h1>Azure test</h1>
+          <h1>Azure test 23</h1>
         </div>
       </section>  
     </>
